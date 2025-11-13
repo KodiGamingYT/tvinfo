@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "A basic Hello World module for TizenBrew, demonstrating remote key handling.",
   "packageType": "app",
-  "main": "index.html",
+  "appPath": "index.html",
   "files": [
     "js",
     "index.html",
